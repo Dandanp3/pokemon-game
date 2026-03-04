@@ -1,0 +1,15 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Objects","order":1,"path":"folders/Objects.yy",},
+    {"name":"Sprites","order":2,"path":"folders/Sprites.yy",},
+    {"name":"Player","order":2,"path":"folders/Sprites/Player.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"objCam","order":1,"path":"objects/objCam/objCam.yy",},
+    {"name":"sprPlayerIdle","order":1,"path":"sprites/sprPlayerIdle/sprPlayerIdle.yy",},
+    {"name":"sprPlayerWalkDown","order":2,"path":"sprites/sprPlayerWalkDown/sprPlayerWalkDown.yy",},
+    {"name":"sprPlayerWalkLeft","order":4,"path":"sprites/sprPlayerWalkLeft/sprPlayerWalkLeft.yy",},
+    {"name":"sprPlayerWalkRight","order":5,"path":"sprites/sprPlayerWalkRight/sprPlayerWalkRight.yy",},
+    {"name":"sprPlayerWalkTop","order":3,"path":"sprites/sprPlayerWalkTop/sprPlayerWalkTop.yy",},
+  ],
+}
